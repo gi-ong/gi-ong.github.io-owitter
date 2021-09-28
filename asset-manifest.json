@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gi-ong/owitter.git/static/css/main.9173226f.chunk.css",
+    "main.js": "/gi-ong/owitter.git/static/js/main.f8fbd2a3.chunk.js",
+    "main.js.map": "/gi-ong/owitter.git/static/js/main.f8fbd2a3.chunk.js.map",
+    "runtime-main.js": "/gi-ong/owitter.git/static/js/runtime-main.49e022cf.js",
+    "runtime-main.js.map": "/gi-ong/owitter.git/static/js/runtime-main.49e022cf.js.map",
+    "static/js/2.19917cd4.chunk.js": "/gi-ong/owitter.git/static/js/2.19917cd4.chunk.js",
+    "static/js/2.19917cd4.chunk.js.map": "/gi-ong/owitter.git/static/js/2.19917cd4.chunk.js.map",
+    "index.html": "/gi-ong/owitter.git/index.html",
+    "static/css/main.9173226f.chunk.css.map": "/gi-ong/owitter.git/static/css/main.9173226f.chunk.css.map",
+    "static/js/2.19917cd4.chunk.js.LICENSE.txt": "/gi-ong/owitter.git/static/js/2.19917cd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49e022cf.js",
+    "static/js/2.19917cd4.chunk.js",
+    "static/css/main.9173226f.chunk.css",
+    "static/js/main.f8fbd2a3.chunk.js"
+  ]
+}
